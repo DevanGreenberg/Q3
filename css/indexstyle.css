@@ -1,0 +1,23 @@
+#wrapper {
+	max-width: 70%;
+	margin: 0 auto;
+}
+.break {
+	max-width: 50%;
+	margin: 0 auto;
+}
+img {
+	width: 460px;
+}
+body {
+	background-color: black;
+}
+h1 {
+	color: white;
+}
+h2 {
+	color: lightgreen;
+}
+p {
+	color: aqua;
+}

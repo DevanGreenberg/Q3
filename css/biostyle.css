@@ -1,16 +1,54 @@
-html {
-	background-color: gray
+#wrapper {
+	max-width: 70%;
+	margin: 0 auto;
+}
+.txt1 {
+	background-color: lightgray;
+	padding: 10px;
+	border: 3px solid black;
+	margin: 20px;
+}
+.txt2 {
+	background-color: white;
+	padding: 10px;
+	border: 3px solid black;
+	margin: 20px;
+}
+.smallfoto {
+	width: 160px;
+	margin: 0 auto;
+}
+body {
+	background-color: lightsalmon;
 }
 img {
 	width: 280px;
 	border: solid black 5px;
 }
 h1 {
-	color: white;
-	border-bottom: 20px;
+	color: black;
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+}
+h2 {
+	color: black;
+	border-bottom-color: black;
 }
 p {
-	color: blue;
+	color: firebrick;
 	font-weight: bold;
 	text-align: center;
+}
+a:link {
+	color: crimson;
+	text-decoration: none;
+
+}
+a:visited {
+	color: deeppink;
+}
+a:hover {
+	color: aqua;
+	text-decoration: none;
 }
