@@ -33,6 +33,7 @@ p {
 img {
 	width: 500px;
 	border: 5px solid black;
+	margin: 5px;
 }
 .img1 {
 	float: right;
