@@ -1,0 +1,35 @@
+body {
+	background-color: #EBBA7C;
+}
+h1 {
+	text-align: center;
+}
+section {
+	background-color: #5C3529;
+	border: black solid 2px;
+}
+.hotdogsec {
+	background-color: #DB0026;
+}
+#wrapper {
+	width: 70%;
+	margin: 0 auto;
+}
+.column {
+	float: left;
+	padding: 10px;
+	text-align: center;
+}
+.leftc {
+	width: 48%;
+}
+.rightc {
+	width: 48%;
+}
+img {
+	width: 280px;
+	border: 5px solid ;
+}
+.imghotdog {
+	border: ;
+}
