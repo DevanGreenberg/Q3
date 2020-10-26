@@ -1,5 +1,5 @@
 body {
-	background-color: #f6f6f6;
+	background-color: white;
 }
 #painting {
 	height: 500px;
@@ -42,26 +42,45 @@ body {
 	width: 500px;
 }
 #row2-3 {
-	height: 235px;
+	height: 240px;
 }
 	#midcolumn {
-		height: 275px;
+		height: 240px;
 	}
 		.midbox {
-			height: 113px;
-			width: 215px;
+			height: 115px;
+			width: 216px;
 		}
 		#div4 {
 			height: 10px;
-			width: 215px;
+			width: 216px;
 		}
 	#div3 {
-		height: 235px;
+		height: 240px;
 		width: 10px;
 	}
 	#bigbox {
-		height: 235px;
-		width: 275px;
+		height: 240px;
+		width: 274px;
+	}
+#row4 {
+	height: 120px;
+}
+	.bottomwindow {
+		height: 120px;
+		width: 108px;
+	}
+		.windowboxB {
+			height: 60px;
+			width: 108px;
+		}
+	.div5 {
+		height: 120px;
+		width: 10px;
+	}
+	.bottombox {
+		height: 120px;
+		width: 132px;
 	}
 .right {
 	float: right;
